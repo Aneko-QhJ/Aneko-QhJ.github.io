@@ -20,12 +20,16 @@ contacts:
     handle: aneko.qhj@gmail.com
     url: mailto:aneko.qhj@gmail.com
 games:
-  - name: Arknights
+  - name: 明日方舟
     icon: /assets/imgs/games/arknights.jpg
     accounts:
       - id: "Rainbowmxx#6081"
         server: 泰拉#0
-  - name: Genshin Impact
+  - name: 明日方舟：终末地
+    icon: /assets/imgs/games/endfield.jpg
+    accounts:
+      - id: "Rainbowmxx#4142"
+  - name: 原神 / Genshin Impact
     icon: /assets/imgs/games/gi.jpg
     accounts:
       - id: "312807955"
