@@ -9,7 +9,7 @@ title: "奇幻菌的奇想手记"
     <p class="hero-description">{{ site.description }}</p>
     <a class="text-link hero-link" href="#latest-posts">翻开手记 <span aria-hidden="true">↓</span></a>
   </div>
-  <div class="hero-art">{% include landscape.html %}</div>
+  <div class="hero-art"><img class="hero-avatar" src="{{ '/assets/imgs/avatar.jpg' | relative_url }}" width="929" height="929" alt="奇幻菌的头像"></div>
 </section>
 
 <section class="latest-section" id="latest-posts" aria-labelledby="latest-title">
